@@ -141,3 +141,10 @@ h2.active{
     }
 }
 
+
+
+@media screen and (max-width:400px) {
+    h1,h2{
+        text-align: center;
+    }
+}
